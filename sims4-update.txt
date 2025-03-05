@@ -1,0 +1,13 @@
+;aiu;
+
+[Main Update]
+Name = The Sims 4 Modpack by Marq
+ProductVersion = 1.0.0.0
+URL = https://github.com/marq98n13/advarchitectupdaterlinks/releases/download/latest/sims4-modpack-install.exe
+Size = 308597596
+SHA256 = 93974066AC47DF153814F3A73BF1B38BEA70C248B39A49557B9E8B3255EF6348
+MD5 = 69487857cb90e0ddec259798b38db1c4
+ServerFileName = sims4-modpack-install.exe
+RegistryKey = HKUD\Software\Marq\The Sims 4 Modpack\Version
+Version = 1.0.0.0
+AutoCloseApplication = [APPDIR]syncthing.exe|;;NoRestart
