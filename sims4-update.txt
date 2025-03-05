@@ -4,9 +4,9 @@
 Name = The Sims 4 Modpack by Marq
 ProductVersion = 1.0.0.0
 URL = https://github.com/marq98n13/advarchitectupdaterlinks/releases/download/latest/sims4-modpack-install.exe
-Size = 308597256
-SHA256 = 88DC944D193568760C4B36ED0307CE4B9CE481C0DAFF13A2A5768722309DCCC1
-MD5 = 29304c2962562ae3db9fbac0f762d26d
+Size = 308695387
+SHA256 = 889F0F2D3294BC6B5D575947A79BD8201C9429CB06F7BA7D6D0791BF1FA4498F
+MD5 = 98ba4d98173e42761b1bc7ae304c5fc9
 ServerFileName = sims4-modpack-install.exe
 RegistryKey = HKUD\Software\Marq\The Sims 4 Modpack\Version
 Version = 1.0.0.0
